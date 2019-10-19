@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+header,footer{
+  height: 100px;
+  border: 1px solid black;
+  clear: both;
+}
+section{
+  height: 900px;
+  width: 20%;
+  border: 1px solid black;
+  float: left;
+}
+
+.sndbox{
+  height: 900px;
+  width: 40%;
+  border: 1px solid black;
+  float: left;
+
+}

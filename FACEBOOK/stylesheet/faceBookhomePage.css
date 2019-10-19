@@ -1,0 +1,185 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 79px;
+  background-color: rgb(71 94 160);
+  overflow: auto;
+}
+
+header ul {
+    float: left;
+    margin: 1% 1% 1% 6%;
+    width: 37%;
+}
+header ul li{
+  float: left;
+  margin: 1% 1% 1% 1%;
+  margin: 2% 4% 2% 2%;
+  list-style: none;
+  color: white;
+  font-weight: 800;
+}
+
+
+
+.faceLogo {
+    float: left;
+    font-size: 30px;
+    color: white;
+    margin: 1% 1% 1% 8%;
+}
+header input {
+    width: 36%;
+    margin-left: .5%;
+    margin-top: 1%;
+    float: left;
+}
+
+.backColor{
+  background-color: rgb(233, 235, 238);
+  height: 800px;
+}
+
+.firstSec{
+  width: 25%;
+  height: 800px;
+  float: left;
+
+}
+.firstSec h2 {
+ padding-left: 5px;
+}
+
+.firstSecOne ul li{
+  list-style: none;
+  text-align: none;
+}
+
+.firstSecTwo ul li, .firstSecThree ul li, .firstSecOne ul li{
+  list-style: none;
+  list-style: none;
+  margin-top: 4%;
+
+}
+
+.firstSecThree h2, .firstSecOne h2, .firstSecTwo h2{
+    margin-left: 10%;
+}
+
+
+.midSec{
+  width: 50%;
+  height: 800px;
+  float: left;
+}
+
+.midSecOne{
+  height: 200px;
+      background-color: white;
+      margin-right: 1%;
+}
+
+.midSecOne span, .midSecOne h2{
+  margin-left: 2%;
+font-size: 20px;
+font-weight: 700;
+}
+
+.midSecTwo{
+  height: 300px;
+  border-radius: 4%;
+}
+
+.midSecTwo img{
+  width: 99%;
+  height: 296px;
+  padding-left: 0px;
+  margin-top: 2%;
+}
+
+.midSecThree{
+  width: 98%;
+  height: 226px;
+  margin-left: 4px;
+  margin-top: 1%;
+}
+
+.midSecThree img{
+  width: 100%;
+  height: 226px;
+  margin-left: -3px;
+  margin-top: 2%;
+}
+
+.lastSec{
+  width: 25%;
+  height: 800px;
+  float: left;
+}
+
+.lastSecOne{
+  background-color: white;
+  margin-left: 1%;
+}
+
+.lastSecOne h2{
+  font-size: 18px;
+  margin-left: 5%;
+}
+
+.lastSecTwo{
+  height: 400px;
+  background-color: white;
+}
+
+.lastSecTwo h2{
+  font-size: 19px;
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 15px;
+  text-align: inherit;
+  margin: center;
+  font-weight: 600;
+  color: darkslategray;
+}
+
+.lastSecTwo img{
+  width: 49%;
+  float: left;
+  padding-left: 6px;
+  height: 162px;
+  padding-left: 6px;
+}
+
+.lastSecTwo span{
+  margin: 6px;
+  margin-left: 7px;
+  padding-top: 13px;
+  color: dodgerblue;
+}
+
+.lastSecThree{
+  height: 220px;
+  background-color: white;
+}
+
+.lastSecThree h2 {
+  font-size: 16px;
+  margin: auto;
+  margin-left: 16px;
+  margin-bottom: -2px;
+  margin-top: 10px;
+}
+
+.lastSecThree span{
+  color: blue;
+  padding-left: 99px;
+}
+
+.lastSecThree img{
+  margin-left: 31px;
+  width: 82%;
+}

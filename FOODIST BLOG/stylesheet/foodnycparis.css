@@ -1,0 +1,136 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h1{
+  font-size: 90px;
+  color: red;
+  font-weight: normal;
+  font-weight: 100;
+}
+
+header h2{
+  font-size: 52px;
+  color: black;
+  font-weight: 100;
+}
+
+h2{
+  font-size: 50px;
+  font-weight: 100;
+  color: lightgrey;
+}
+
+nav li  {
+  color: lightgray;
+  font-size: 30px;
+  margin-right: 15px;
+  border-bottom: 50px;
+  text-decoration: none;
+  list-style: none;
+  float: left;
+  text-decoration: underline;
+  margin-bottom: 49px;
+  }
+
+nav li a{
+  color: lightgrey;
+  font-size: 40px;
+  margin-right: 34px;
+  border-bottom: 50px;
+  list-style: none;
+  float: left;
+  margin-bottom: 20px;
+  text-underline-position: under;
+
+}
+
+.date {
+  color: lightgrey;
+  font-size: 68px;
+  font-weight: 100;
+  margin-bottom: ;
+  clear: both;
+  display: block;
+  margin-bottom: 13px;
+  margin-top: 20px;
+}
+
+h3{
+  font-size: 72px;
+  color: black;
+  font-weight: 100;
+  font-weight: 200px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+/* this is the beginning of Paris foodist */
+img{
+  width: 100%;
+  height: initial;
+}
+
+p span {
+  color: lightgrey;
+  text-transform: uppercase;
+  font-size: 172px;
+  float: left;
+  font-weight: 200;
+  margin-top: 47px;
+}
+
+p {
+  font-size: 31px;
+  color: black;
+  line-height: 67px;
+  margin-bottom: 84px;
+}
+
+
+.navbtn{
+    float: right;
+    color: red;
+    font-size: 34px;
+    align: right;
+    font-weight: 600;
+    }
+
+
+footer nav li{
+  display: inline-block;
+  font-size: 20px;
+  float: left;
+  text-decoration: none;
+  list-style: none;
+  color: red;
+  }
+
+
+footer p {
+  float: left;
+  clear: left;
+  font-size: 34px;
+  color: lightgray;
+  text-decoration: none;
+  margin-top: -25px;
+}
+
+.bottomnav li{
+  color: red;
+}
+
+.redBtm{
+  color: red;
+  text-decoration: none;
+  list-style: none;
+  padding-right: 3%;
+  border-left: 4px solid lightgrey;
+  padding-left: 5%;
+}
+
+.noRed{
+  color: red;
+  text-decoration: none;
+}
